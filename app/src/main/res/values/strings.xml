@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">ANDROID VERSIONS</string>
+
+    <string-array name="apis">
+        <item>UNNAMED</item>
+        <item>Petite Four</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Android 10</item>
+    </string-array>
+
+    <string-array name="versions">
+        <item>Ver. 1.0</item>
+        <item>Ver. 1.1</item>
+        <item>Ver. 1.5</item>
+        <item>Ver. 1.6</item>
+        <item>Ver. 2.0"m dash" 2.1</item>
+        <item>Ver. 2.2"m dash" 2.2.3</item>
+        <item>Ver. 2.3"m dash" 2.3.7</item>
+        <item>Ver. 3.0 "m dash"  3.1</item>
+        <item>Ver. 4.0.1 "m dash"  4.0.4</item>
+        <item>Ver. 4.1.x "m dash"  4.3.x</item>
+        <item>Ver. 4.4 "m dash"  4.4.4</item>
+        <item>Ver. 	5.0 "m dash"  5.1</item>
+        <item>Ver. 	6.0</item>
+        <item>Ver. 7.0 "m dash"  7.1</item>
+        <item>Ver. 8.0.0 "m dash"  8.1.0</item>
+        <item>Ver. 9</item>
+        <item>Ver. 10</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>API Level 1</item>
+        <item>API Level 2</item>
+        <item>API Level 3</item>
+        <item>API Level 4</item>
+        <item>API Level 5,6,7</item>
+        <item>API Level 8</item>
+        <item>API Level 9,10</item>
+        <item>API Level 11,12,13</item>
+        <item>API Level 14, NDK 7 15, NDK 8</item>
+        <item>API Level 16,17,18</item>
+        <item>API Level 19</item>
+        <item>API Level 21,22</item>
+        <item>API Level 23</item>
+        <item>API Level 24,25</item>
+        <item>API Level 26,27</item>
+        <item>API Level 28</item>
+        <item>API Level 29</item>
+    </string-array>
+
+    <string-array name="relDate">
+        <item>Released September 23, 2008</item>
+        <item>Released February 9, 2009	</item>
+        <item>Released April 27, 2009</item>
+        <item>Released September 15, 2009</item>
+        <item>Released October 26, 2009</item>
+        <item>Released May 20, 2010</item>
+        <item>Released December 6, 2010</item>
+        <item>Released February 22, 2011	</item>
+        <item>Released October 18, 2011</item>
+        <item>Released July 9, 2012</item>
+        <item>Released October 31, 2013	</item>
+        <item>Released November 12, 2014</item>
+        <item>Released October 5, 2015</item>
+        <item>Released August 22, 2016</item>
+        <item>Released August 21, 2017</item>
+        <item>Released August 6, 2018</item>
+        <item>Released September 3, 2019</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>The first commercially available Android device was the HTC Dream.</item>
+        <item>the Android 1.1 update was released, initially for the HTC Dream only. Android 1.1 was known as "Petit Four" internally, though this name was not used officially.</item>
+        <item>This was the first release to officially use a codename based on a dessert item Cupcake, a theme used for all releases until Android Pie, with Android 10 using a number-only system.</item>
+        <item>The Android 1.6 – dubbed Donut – was released, based on Linux kernel 2.6.29. Included in the update were numerous new features.</item>
+        <item>It Expanded Account sync, allowing users to add multiple accounts to a device for synchronization of an email and contacts.</item>
+        <item>Gallery allows users to view picture stacks using a zoom gesture.</item>
+        <item>Faster, more intuitive text input on a virtual keyboard, with improved accuracy, better suggested text and voice input mode.</item>
+        <item> the first tablet-only Android update</item>
+        <item>Ice Cream Sandwich was the last version to officially support Adobe Systems Flash player.</item>
+        <item>Jelly Bean was an incremental update with the primary aim of improving the functionality and performance of the user interface.</item>
+        <item>Although initially under the "Key Lime Pie" ("KLP") codename, the name was changed because "very few people actually know the taste of a key lime pie.".[</item>
+        <item>It became available as an official over-the-air (OTA) update on November 12, 2014, for select devices that run distributions of Android serviced by Google</item>
+        <item>Adoptable External storage to behave like Internal Storage</item>
+        <item>A second preview became available on November 22, 2016, before the final version was released to the public on December 5, 2016.</item>
+        <item>Project Treble, the biggest change to the foundations of Android to date: a modular architecture that makes it easier and faster for hardware makers to deliver Android updates.</item>
+        <item>Battery Saver no longer shows an orange overlay on the notification and status bars</item>
+        <item>Android 10 was going to be known as "Queen Cake". Internally, Android 10 is known as Quince Tart.</item>
+
+    </string-array>
+
+
+</resources>
